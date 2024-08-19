@@ -28,7 +28,7 @@ setup(
     keywords=["audio", "compression", "machine learning"],
     install_requires=[
         "argbind>=0.3.7",
-        "descript-audiotools @ git+git@github.com:descriptinc/audiotools.git",
+        "descript-audiotools @ git+https://github.com/descriptinc/audiotools.git",
         "einops",
         "numpy",
         "torch",
